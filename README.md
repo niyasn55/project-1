@@ -46,7 +46,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/face-emotion-detection.git
+git clone https://github.com/niyasn55/project-1/blob/main/real%20time%20project%201.ipynb 
 cd face-emotion-detection
 Install dependencies:
 
